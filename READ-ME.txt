@@ -1,11 +1,39 @@
-  =>  Template Name    : WooDY - Carpenter Website Template
+# Student Hub
 
-  =>  Template Link    : https://htmlcodex.com/carpenter-website-template-free
+Student Hub is a comprehensive web platform designed to cater to the diverse needs of students. It offers information and resources on various aspects of student life, including accommodation, dining, commuting, consultancies, and tourist attractions.
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+## Table of Contents
 
-  =>  Template Author  : HTML Codex
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-  =>  Author Website   : https://htmlcodex.com
+## Features
 
-  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
+- **Hostels**: Find information about student hostels, including locations and amenities.
+- **Eatery**: Discover dining options suitable for students.
+- **Commute**: Learn about transportation options and commuting tips.
+- **Consultancies**: Access a list of consultancies offering services to students.
+- **Tourist Attractions**: Explore local tourist spots and recreational activities.
+
+## Installation
+
+To set up the Student Hub project locally, follow these steps:
+
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/Shashanktumma/Student-hub.git
+
+## Installation
+
+To set up the Student Hub project locally, follow these steps:
+
+2. **Navigate to the project directory**:
+
+   ```bash
+   cd Student-hub
+
+3.Open the index.html file in your preferred web browser to explore the platform.
